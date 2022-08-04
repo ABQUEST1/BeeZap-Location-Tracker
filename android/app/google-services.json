@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548598287975",
+    "project_id": "beezap-locate",
+    "storage_bucket": "beezap-locate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548598287975:android:cf71df01dbc5d87eb68ec2",
+        "android_client_info": {
+          "package_name": "track.beezap.beezap_locate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548598287975-cqplav15phr12fj8r6he3fbpnrh19460.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdAmt5mfGs3suX0rKG6V4i3ZY4aKjv0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548598287975-cqplav15phr12fj8r6he3fbpnrh19460.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
